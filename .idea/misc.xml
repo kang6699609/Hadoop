@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/HDFS/pom.xml" />
         <option value="$PROJECT_DIR$/springcloudstudy/pom.xml" />
+        <option value="$PROJECT_DIR$/easyrules/pom.xml" />
       </list>
     </option>
   </component>
