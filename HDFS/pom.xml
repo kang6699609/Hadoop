@@ -53,7 +53,7 @@
                     </descriptorRefs>
                     <archive>
                         <manifest>
-                            <mainClass>com.kk.mapreduce.WordcountDriver</mainClass>
+                            <mainClass>com.kk.mapreduce.wordcount.WordcountDriver</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
