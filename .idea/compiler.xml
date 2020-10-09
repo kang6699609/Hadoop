@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="hbase" />
         <module name="easyrules" />
         <module name="springcloudstudy" />
         <module name="HDFS" />
@@ -13,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="easyrules" target="1.8" />
+      <module name="hbase" target="1.8" />
       <module name="HDFS" target="1.8" />
       <module name="springcloudstudy" target="1.8" />
     </bytecodeTargetLevel>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/HDFS/HDFS.iml" filepath="$PROJECT_DIR$/HDFS/HDFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Hadoop.iml" filepath="$PROJECT_DIR$/.idea/Hadoop.iml" />
       <module fileurl="file://$PROJECT_DIR$/easyrules/easyrules.iml" filepath="$PROJECT_DIR$/easyrules/easyrules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase/hbase.iml" filepath="$PROJECT_DIR$/hbase/hbase.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloudstudy/springcloudstudy.iml" filepath="$PROJECT_DIR$/springcloudstudy/springcloudstudy.iml" />
     </modules>
   </component>
