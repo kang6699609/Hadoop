@@ -10,6 +10,8 @@
         <option value="$PROJECT_DIR$/springcloudstudy/pom.xml" />
         <option value="$PROJECT_DIR$/easyrules/pom.xml" />
         <option value="$PROJECT_DIR$/hbase/pom.xml" />
+        <option value="$PROJECT_DIR$/shell/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka/pom.xml" />
       </list>
     </option>
   </component>
